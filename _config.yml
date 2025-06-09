@@ -1,0 +1,15 @@
+title: 程序员福利导航
+email: huifudizhi@gmail.com
+description: 每天提供最新福利内容，老司机不迷路
+baseurl: ""
+url: "https://dizhivip.github.io"  # 替换为你的 GitHub Pages 链接
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  pages:
+    output: true
+
+markdown: kramdown
